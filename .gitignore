@@ -1,0 +1,11 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+dist/
+.output/
+.tanstack/
+*.pyc
+__pycache__/
+/workspace/vendor/Bannon/.git
